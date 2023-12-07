@@ -24,6 +24,7 @@ _Bachelor of Science in Software Engineering_
 
 - GPA: 3.93 (102 completed credits)
 - Active member of Computing Society
+
 __Coursework:__
 
 -	Object Oriented Programming (C#): used classes to create interactive programs
