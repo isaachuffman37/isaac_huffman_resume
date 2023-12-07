@@ -1,84 +1,96 @@
 ---
-layout: cv
+layout: resume
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Isaac Huffman
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+510-570-7676
+<a href="isaac.huffman99@gmail.com">isaac.huffman99@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+| <a href="www.linkedin.com/in/isaac-huffman-5a2335279 ">LinkedIn</a>
+| 
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+`Expected Graduation: Dec 2024`
+
+_Bachelor of Science in Software Engineering_
+
+- GPA: 3.93 (102 completed credits)
+- Active member of Computing Society
+__Coursework:__
+
+-	Object Oriented Programming (C#): used classes to create interactive programs
+-	Programming with Functions: utilized functions, csv, and text files in Python to solve business problems 
+-	Algorithmic Design: designed algorithms using pseudocode, flow-charts, and test cases in Python
+-	JavaScript Language: learned to interact with the DOM to produce interactive websites
+-	Web Development Foundations: Created static webpages in HTML and CSS
 
 
 ## Related Experience
 
-### Internships
+### Coding Interview Society: Founder/President
+`Sep 2023 - Present`
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+-	Organized and conducted meetings every week with over 15 members to improve technical interview skills
+-	Hosted informational sessions with employers to provide guidance for members 
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
 
-### Data Science Lead
+### Brigham Young University-Idaho: Teacher’s Assistant
+`Sep 2023 - Present`
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+-	Guided over 30 students in learning key components of functions and helped them debug their Python programs 
+-	Led tutoring sessions with students that were not grasping concepts 
+-	Reviewed each student's coding assignments and provided feedback when needed
+-	Conducted classes and guided discussions when professor was absent or otherwise unable
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### TriGuard Pest Control: Technician Manager
+`Nov 2021 – Sep 2023`
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+-	Led a team of 5-10 service technicians and conducted meetings on how to identify and fulfill the needs of customers
+-	Provided guidance to decrease service time and increase amount of positive reviews, leading to an increase of an all-time record of 184 reviews (32% of total) in a 7-week block
+-	Worked approximately 75 hours per week servicing the interior and exterior of customer’s homes and overseeing the quality of my team’s accounts
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+## Personal Projects
 
-`January 2027 - April 2027`
-__Imagine Learning__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+### Hanman in Rust
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+-	https://github.com/isaachuffman37/Rust_Hangman
+-	Learned basics of Rust and demonstrated language in a hangman program
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
+### Finance Tracker in C#
+
+-	https://github.com/isaachuffman37/FinanceTracker
+-	A program utilizing classes to allow for multiple users to track their bank account balance, expenses, incomes, and budgets 
+
+### NASA Hackathon Eclipse Website
+
+-	Worked with a team through GitHub and was in charge of resolving merge conflicts as well as creating the HTML and CSS for the website
+
+
+## Skills
+
+-	Languages: Python, C#, JavaScript, Rust, HTML, CSS
+-	Design structure charts, data flow diagrams, pseudocode, and flowcharts
+-	Paradigms: object oriented and programming with functions
+-	Improve efficiency, coupling, and cohesion of functions and algorithms 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+
+`2017-2019`
+__Service Missionary__, Idianapolis, Indiana
 
 
 
